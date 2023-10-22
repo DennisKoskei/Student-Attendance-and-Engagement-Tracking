@@ -1,8 +1,10 @@
-using the following information can you generate the entire python code  for this project: Student Attendance and Engagement Tracking
+# Student Attendance and Engagement Tracking
 
-Description: Many educational institutions struggle with tracking student attendance and engagement, especially in large lecture-style classes. This can result in lower student performance and difficulties in identifying students who need extra support. To address this issue, you can create a Python-based software solution to track student attendance and engagement more effectively.
+## Description: 
+Many educational institutions struggle with tracking student attendance and engagement, especially in large lecture-style classes. This can result in lower student performance and difficulties in identifying students who need extra support. To address this issue, you can create a Python-based software solution to track student attendance and engagement more effectively.
 
-Proposed Solution: Python Application for Attendance and Engagement Tracking
+## Proposed Solution: 
+Python Application for Attendance and Engagement Tracking
 
 This is a Python-based Application for Attendance and Engagement Tracking. Its purpose is to track student attendance and engagement more efficiently, especilly in large lecture-style classes
 
@@ -41,3 +43,11 @@ Week 4:
 - Finalize attendance reports and analytics.
 - Test the system thoroughly for bugs and issues.
 - Prepare documentation and a user guide for instructors and students.
+
+
+---
+### Group Members
+- 20/03815 Dennis Koskei
+- 20/03651 Elidavid Mwaka
+- 20/03681 Ronelhil Kirui
+- 20/03551 Kiplagat Kevin
